@@ -18,7 +18,7 @@ console.log("text"+event.id.substring(4));
 
 function fPaintHours() {
     let currentDayEl = document.getElementById("currentDay");
-    currentDayEl.innerHTML = moment().format("DD/M/YYYY hh:mm:ss a");
+    currentDayEl.innerHTML = moment().format("M/DD/YYYY hh:mm:ss a");
     currentDayEl.style="font-weight: bolder;"
 
     let hourOfDay = moment().format("H");
