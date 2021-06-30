@@ -71,3 +71,22 @@ textarea {
   font-size: 20px;
   transition: all 0.3s ease-in-out;
 }
+
+.saveBtnBig{
+  font-size: xxx-large;
+  margin-top: 15px;
+  cursor: pointer ;
+}
+
+.saveBtnBig:hover {
+  font-size: 320%;
+  margin-top: 15px;
+  cursor: pointer ;
+  transition: all 0.3s ease-in-out;
+  color:orangered;
+}
+
+.saveBtnBig:active{
+  background-color: red;
+  transition: 1s;
+}
