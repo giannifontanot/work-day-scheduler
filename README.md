@@ -18,5 +18,7 @@ This is a live link to the webpage: https://giannifontanot.github.io/work-day-sc
 - Very intuitive interface
 - Bright colors
 
+![Work Day Scheduler.](./assets/images/Work-Day-Scheduler-animation2.gif "App image.")
+
 Please feel free to contact [giannifontanot@gmail.com](https://mailto:giannifontanot@gmail.com/)
 
