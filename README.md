@@ -5,9 +5,11 @@
 
 Work Day Scheduler is a tiny app to schedule and save your appointments for the day. 
 
+This is a live link to the webpage: https://giannifontanot.github.io/work-day-scheduler/
+
 - Select the time of the day
-- Type your appointments in the midle column
-- ✨Magic ✨
+- Type your appointments in the middle column
+- ✨Magic happens!✨
 
 ## Features
 
@@ -16,5 +18,5 @@ Work Day Scheduler is a tiny app to schedule and save your appointments for the 
 - Very intuitive interface
 - Bright colors
 
-Feel free to contact giannifontanot@gmail.com
+Please feel free to contact [giannifontanot@gmail.com](https://mailto:giannifontanot@gmail.com/)
 
